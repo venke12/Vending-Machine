@@ -1,0 +1,10 @@
+02/07/2020 18:25:47	          FEED MONEY: $10.00 	Updated Balance: $10.00
+02/07/2020 18:25:50	       Potato Crisps: $10.00 	Updated Balance: $6.95
+02/07/2020 18:25:52	             Moonpie: $6.95 	Updated Balance: $5.15
+02/07/2020 18:25:55	                Cola: $5.15 	Updated Balance: $3.90
+02/07/2020 18:25:58	         GIVE CHANGE: $3.90 	Updated Balance: $0.00
+02/07/2020 18:29:29	          FEED MONEY: $10.00 	Updated Balance: $10.00
+02/07/2020 18:29:41	       Potato Crisps: $10.00 	Updated Balance: $6.95
+02/07/2020 18:29:44	             Moonpie: $6.95 	Updated Balance: $5.15
+02/07/2020 18:29:46	                Cola: $5.15 	Updated Balance: $3.90
+02/07/2020 18:29:49	         GIVE CHANGE: $3.90 	Updated Balance: $0.00
